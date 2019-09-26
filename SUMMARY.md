@@ -1,0 +1,22 @@
+# Table of contents
+
+* [My reading list](README.md)
+* [Direction-aware Spatial Context Features for Shadow Detection and Removal](direction-aware-spatial-context-features-for-shadow-detection-and-removal.md)
+* [A Stagewise Refinement Model for Detecting Salient Objects in Images](a-stagewise-refinement-model-for-detecting-salient-objects-in-images.md)
+* [Fast Shadow Detection from a Single Image Using a Patched Convolutional Neural Network](fast-shadow-detection-from-a-single-image-using-a-patched-convolutional-neural-network.md)
+* [Deep Learning Based Shadow Detection in Images](deep-learning-based-shadow-detection-in-images.md)
+* [Convolutional Neural Network-Based Shadow Detection in Images Using Visible Light Camera Sensor](convolutional-neural-network-based-shadow-detection-in-images-using-visible-light-camera-sensor.md)
+* [Fully Convolutional Networks for Semantic Segmentation](fully-convolutional-networks-for-semantic-segmentation.md)
+* [Learning a Discriminative Feature Network for Semantic Segmentation](learning-a-discriminative-feature-network-for-semantic-segmentation.md)
+* [Shadow Detection With Conditional Generative Adversarial Networks](shadow-detection-with-conditional-generative-adversarial-networks.md)
+* [Shadow Detection With Conditional Generative Adversarial Networks](shadow-detection-with-conditional-generative-adversarial-networks-1.md)
+* [Learning-Based Sampling for Natural Image Matting](untitled-9.md)
+* [Distraction-aware Shadow Detection](untitled-10.md)
+* [A practical theory for designing very deep convolutional neural networks](untitled-11.md)
+* [Shadow Detection Using Robust Texture Learning](untitled-12.md)
+* [Learning Fine-Grained Image Similarity with Deep Ranking](untitled-13.md)
+* [BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frame](untitled-14.md)
+* [A+D Net: Training a Shadow Detector with Adversarial Shadow Attenuation](untitled-15.md)
+* [Max-margin Class Imbalanced Learning with Gaussian Affinity](untitled-16.md)
+* [Human uncertainty makes classification more robust](untitled-17.md)
+
