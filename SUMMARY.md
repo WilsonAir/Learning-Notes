@@ -11,7 +11,6 @@
 * [Shadow Detection With Conditional Generative Adversarial Networks](shadow-detection-with-conditional-generative-adversarial-networks.md)
 * [Learning-Based Sampling for Natural Image Matting](image-matting.md)
 * [Distraction-aware Shadow Detection](distraction-aware.md)
-* [Untitled](untitled.md)
 * [A practical theory for designing very deep convolutional neural networks](a-practical-theory-for-designing-very-deep-convolutional-neural-networks.md)
 * [Shadow Detection Using Robust Texture Learning](shadow-detection-using-robust-texture-learning.md)
 * [Learning Fine-Grained Image Similarity with Deep Ranking](deep-rank.md)
